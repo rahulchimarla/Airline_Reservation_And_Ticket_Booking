@@ -20,7 +20,6 @@ The application allows users to search for available flights, book tickets, mana
 - [Installation and Setup](#-installation-and-setup)
 - [Application Modules](#-application-modules)
 - [Application Workflow](#-application-workflow)
-- [Screenshots](#-screenshots)
 - [Future Enhancements](#-future-enhancements)
 - [Author](#-author)
 - [License](#-license)
